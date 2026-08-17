@@ -92,33 +92,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alqerem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-       alt="Mohammed's GitHub Stats" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alqerem&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Alqerem&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
