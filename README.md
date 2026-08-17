@@ -1,55 +1,164 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=20&descAlignY=50&color=gradient" />
+
+  <img width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Mohammed%20Alqerem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20ASP.NET%20Core%20Developer&descSize=18&descAlignY=55&color=0:0f172a,50:2563eb,100:06b6d4" />
+
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-<p align="left">
-  My name is <b>Mohammed Alqerem</b> and I'm a Front-end Developer from Palestine 🇵🇸
-</p>
+# 👋 Hi, I'm Mohammed Alqerem
 
-<h2 align="left">About me</h2>
+### Front-End Developer | ASP.NET Core Developer | Computer Science Student
 
-<p align="left">
-  ✨ Creating bugs since: 2025 <br>
-  📚 Currently learning: JavaScript, React, and advanced frontend development <br>
-  🎓 Studying Computer Science at the Arab American University <br>
-  🎯 Goal: Become a professional Frontend Developer and contribute to open-source projects <br>
-  🎲 Fun fact: I fix my bugs by creating new ones 😅
-</p>
+Passionate about building modern, responsive, and user-friendly web applications.
 
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="mui logo" />
 </div>
 
-<h2 align="left">Connect with me</h2>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student at **Arab American University – Palestine**
+- 💻 Focused on **Front-End & Web Development**
+- ⚛️ Building modern interfaces using **React & JavaScript**
+- ⚙️ Developing web applications with **ASP.NET Core**
+- 🗄️ Working with **Microsoft SQL Server**
+- 🎨 Interested in clean, responsive, and user-friendly UI/UX
+- 🌱 Continuously learning and improving my development skills
+- 🚀 Working toward becoming a professional Full-Stack Developer
+- 🤝 Interested in collaborating on projects and contributing to open source
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <div align="left">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
+
+</div>
+
+### 🎨 Front-End Development
+
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,materialui" />
+
+</div>
+
+### ⚙️ Back-End Development
+
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+
+</div>
+
+### 🗄️ Database
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+       height="48"
+       alt="Microsoft SQL Server" />
+
+  &nbsp;&nbsp;
+
+  <strong>Microsoft SQL Server</strong>
+
+</div>
+
+### 🔧 Tools & Development Environment
+
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+- ⚛️ Improving my **React** development skills
+- 🌐 Building web applications using **ASP.NET Core**
+- 🗄️ Working with **SQL Server & Entity Framework Core**
+- 🎨 Creating responsive interfaces using **Bootstrap, Tailwind CSS & Material UI**
+- 🔌 Learning more about **REST APIs**
+- 📚 Strengthening my knowledge of **Software Engineering & Clean Code**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alqerem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="Mohammed's GitHub Stats" />
+
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alqerem&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Alqerem&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
   <a href="https://www.linkedin.com/in/mohammed-alqerem-26b069303" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Alqerem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/mohammad.alqerem.2025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+
+  <a href="mailto:mohammedalqerem422@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Gmail" />
   </a>
-  <a href="mailto:mohammedalqerem422@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+
+  <a href="https://github.com/Mohammed-Alqerem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mohammed--Alqerem-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub" />
   </a>
+
+</div>
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+> **"Learn. Build. Improve. Repeat."**
+
+</div>
+
+<br>
+
+<div align="center">
+
+  ⭐️ **Thanks for visiting my profile!**
+
+  <br><br>
+
+  <img width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:06b6d4" />
+
 </div>
