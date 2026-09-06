@@ -24,6 +24,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 - ⚛️ Building modern interfaces using **React & JavaScript**
 - ⚙️ Developing web applications with **ASP.NET Core**
 - 🗄️ Working with **Microsoft SQL Server**
+- 🐳 Learning **Docker & Containerization**
 - 🎨 Interested in clean, responsive, and user-friendly UI/UX
 - 🌱 Continuously learning and improving my development skills
 - 🚀 Working toward becoming a professional Full-Stack Developer
@@ -75,7 +76,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
 
 </div>
 
@@ -86,6 +87,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 - ⚛️ Improving my **React** development skills
 - 🌐 Building web applications using **ASP.NET Core**
 - 🗄️ Working with **SQL Server & Entity Framework Core**
+- 🐳 Learning **Docker & Containerization**
 - 🎨 Creating responsive interfaces using **Bootstrap, Tailwind CSS & Material UI**
 - 🔌 Learning more about **REST APIs**
 - 📚 Strengthening my knowledge of **Software Engineering & Clean Code**
